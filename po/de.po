@@ -24,7 +24,7 @@ msgstr "Über"
 msgid "Add"
 msgstr "Hinzufügen"
 
-msgid "All IPTV Type:"
+msgid "All IPTV type:"
 msgstr "Alle IPTV Typen:"
 
 msgid "Attempt Epg Import"
